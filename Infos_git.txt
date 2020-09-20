@@ -23,11 +23,15 @@ git push origin --delete test
 git branch -d test
 (Test eh o nome da branch ne)
 
-Essa eh a linha da VI
-Mudanca na branch da vi
+git stash
+git reset --hard [hashcode]
+git rebase
+git fetch
 
-Mudanca atraves do power shell
+git status
+Checa para ver como esta o seu codigo, se deu commit, add e outras coisas
 
-linha exclusiva da vi!!!
 
-Mudanca pro fetch
+
+VS Code
+Alt + setinha pra cima/baixo: muda a linha de lugar
