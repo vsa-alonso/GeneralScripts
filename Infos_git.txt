@@ -1,0 +1,19 @@
+VS Code Create Enviroment
+# Windows
+# You can also use py -3 -m venv .venv
+python -m venv .venv
+
+
+
+
+Git
+Primeiro organizar as branches na minha propria maquina
+
+Para enviar as mudancas ao repositorio do github eh:
+git push -u origin master
+
+Stage changes:
+git add .
+
+Commit
+git commit -m "texto do commit. Isso eh obrigatorio"
