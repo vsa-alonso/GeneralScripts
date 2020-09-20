@@ -29,3 +29,5 @@ Mudanca na branch da vi
 Mudanca atraves do power shell
 
 linha exclusiva da vi!!!
+
+Mudanca pro fetch
