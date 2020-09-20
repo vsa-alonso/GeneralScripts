@@ -19,6 +19,7 @@ Commit
 git commit -m "texto do commit. Isso eh obrigatorio"
 
 Deletar branches remotos
+git push origin --delete test
 git branch -d test
 (Test eh o nome da branch ne)
 
