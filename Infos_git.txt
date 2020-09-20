@@ -28,3 +28,5 @@ Mudanca na branch da vi
 
 Mudanca atraves do power shell
 linha exclusiva na master
+
+linha exclusiva da vi!!!
