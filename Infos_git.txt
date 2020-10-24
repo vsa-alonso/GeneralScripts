@@ -1,8 +1,18 @@
 VS Code Create Enviroment
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
 # Windows
 # You can also use py -3 -m venv .venv
 python -m venv .venv
 
+# Upgrade pip
+py -m pip install --upgrade pip
+
+# Ativar o venv, deve ser rodado no cmd (Considerando que o nome do env eh venv)
+venv\Scripts\activate.bat
+
+#Para ativar no powershell
+venv\Scripts\activate
 
 
 
