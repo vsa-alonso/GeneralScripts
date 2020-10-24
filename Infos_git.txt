@@ -7,8 +7,6 @@ python -m venv .venv
 
 
 Git
-Primeiro organizar as branches na minha propria maquina
-
 Para enviar as mudancas ao repositorio do github eh:
 git push -u origin master
 
